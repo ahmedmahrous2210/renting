@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://poshhire.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://poshhire.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://poshhire.com/collections/short-dresses.atom"/>
+  <title>Posh Hire</title>
+  <updated>2023-02-26T14:32:08+02:00</updated>
+  <author>
+    <name>Posh Hire</name>
+  </author>
+  <entry>
+    <id>https://poshhire.com/products/8132491215129</id>
+    <published>2023-02-26T14:32:08+02:00</published>
+    <updated>2023-02-26T14:32:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/rare-beauty-dress"/>
+    <title>Rare Beauty Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/IMG_5201.png?v=1677415032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            1900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White one-shoulder/puffy-sleeve/feathers dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>Shortdress</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8132491215129</id>
+      <title>Small-Large / White / Maxi</title>
+      <s:price currency="EGP">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8127619957017</id>
+    <published>2023-02-21T22:15:00+02:00</published>
+    <updated>2023-02-21T22:15:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/last-christmas-dress"/>
+    <title>Last Christmas Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Kojak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/30.jpg?v=1677010502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kojak<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Two-piece green embroidered short dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Evening</s:tag>
+    <s:tag>Shortdress</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8127619957017</id>
+      <title>Small-Medium / Green / Mini</title>
+      <s:price currency="EGP">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8127609733401</id>
+    <published>2023-02-21T22:03:30+02:00</published>
+    <updated>2023-02-21T22:03:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/get-sassy-dress"/>
+    <title>Get Sassy Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/24.jpg?v=1677009812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Short gold fringe dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>Shortdress</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8127609733401</id>
+      <title>Small-Medium / Gold / Mini</title>
+      <s:price currency="EGP">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8127563956505</id>
+    <published>2023-02-21T21:10:24+02:00</published>
+    <updated>2023-02-21T21:10:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/its-a-vibe-dress"/>
+    <title>It&apos;s A Vibe Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Soha Murad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/299221841_496449792321312_2603808268889194020_n.jpg?v=1677006626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soha Murad<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Deep plunged short dress with shimmery black fabric</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>Shortdress</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8127563956505</id>
+      <title>Small-Medium / Black / Mini</title>
+      <s:price currency="EGP">3500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8127560515865</id>
+    <published>2023-02-21T20:53:27+02:00</published>
+    <updated>2023-02-21T20:53:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/half-hearted-dress"/>
+    <title>Half-hearted Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Soha Murad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/299489758_422939546481905_7727088995494962539_n.jpg?v=1677005609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soha Murad<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Short embroidered one-shoulder black dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>Shortdress</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8127560515865</id>
+      <title>Small-Medium / Black / Mini</title>
+      <s:price currency="EGP">3500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8124926001433</id>
+    <published>2023-02-20T11:56:02+02:00</published>
+    <updated>2023-02-20T11:56:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/close-the-show-dress"/>
+    <title>Close The Show Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Kojak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/299164773_640713647183066_8149956941943460820_n.jpg?v=1676886964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kojak<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Edgy white long sleeve short dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>Shortdress</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8124926001433</id>
+      <title>Small-Large / White / Mini</title>
+      <s:price currency="EGP">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8124918759705</id>
+    <published>2023-02-20T11:41:15+02:00</published>
+    <updated>2023-02-20T11:41:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/sandalwood-nude-dress"/>
+    <title>Sandalwood Nude Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/331770830_1895131344174009_2827046436199963655_n.jpg?v=1676886077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            2400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nude pearl dress with tulle overskirt</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>Shortdress</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8124918759705</id>
+      <title>Small-Medium / Nude / Mini</title>
+      <s:price currency="EGP">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

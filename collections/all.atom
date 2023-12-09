@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://poshhire.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://poshhire.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://poshhire.com/collections/all.atom"/>
+  <title>Posh Hire</title>
+  <updated>2023-11-06T12:55:18+02:00</updated>
+  <author>
+    <name>Posh Hire</name>
+  </author>
+  <entry>
+    <id>https://poshhire.com/products/8901004689689</id>
+    <published>2023-11-06T12:55:18+02:00</published>
+    <updated>2023-11-06T12:55:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/less-is-more-dress"/>
+    <title>Less Is More Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/PhotoRoom_20231106_124234.jpg?v=1699268120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pale Green Flowy dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8901004689689</id>
+      <title>Pale Green / Small-Xlarge / Maxi</title>
+      <s:price currency="EGP">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8900982079769</id>
+    <published>2023-11-06T12:31:35+02:00</published>
+    <updated>2023-11-06T12:31:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/make-an-entrance-dress"/>
+    <title>Make An Entrance Dress</title>
+    <s:type></s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/Tezza-4041.jpg?v=1699266697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver sequin dress with black off-shoulder sleeves</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8900982079769</id>
+      <title>Small-Large / Silver / Maxi</title>
+      <s:price currency="EGP">3500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8896174850329</id>
+    <published>2023-11-05T13:02:37+02:00</published>
+    <updated>2023-11-05T13:02:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/pink-sunset-dress"/>
+    <title>Pink Sunset Dress</title>
+    <s:type></s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/Tezza-6048.jpg?v=1699182298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Orange X Pink gradient flowy dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8896174850329</id>
+      <title>Small-Medium / OrangexPink / Maxi</title>
+      <s:price currency="EGP">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8896156500249</id>
+    <published>2023-11-05T12:25:34+02:00</published>
+    <updated>2023-11-05T12:25:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/celestial-beauty-dress"/>
+    <title>Celestial Beauty Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/875B58DB-3B3C-4CCF-934E-856E247A3385.jpg?v=1699179935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black shimmery dress with front cut-outs and silver chains</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8896156500249</id>
+      <title>Small-Large / Black / Maxi</title>
+      <s:price currency="EGP">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8896146276633</id>
+    <published>2023-11-05T12:12:08+02:00</published>
+    <updated>2023-11-05T12:12:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/ariel-dress"/>
+    <title>Ariel Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/PhotoRoom_20230715_120956.jpg?v=1699179130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Baby blue metallic Dress with a front slit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8896146276633</id>
+      <title>Small-Large / Blue / Maxi</title>
+      <s:price currency="EGP">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8896130384153</id>
+    <published>2023-11-05T11:51:58+02:00</published>
+    <updated>2023-11-05T11:51:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/oh-she-cute-dress"/>
+    <title>Oh She Cute Dress</title>
+    <s:type></s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/83D4BA6A-5103-402F-93FE-0678123770BA.jpg?v=1699177919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Dress with front cutout</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8896130384153</id>
+      <title>Small-Large / Pink / Maxi</title>
+      <s:price currency="EGP">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8896125206809</id>
+    <published>2023-11-05T11:44:20+02:00</published>
+    <updated>2023-11-05T11:44:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/unmatched-beauty-dress"/>
+    <title>Unmatched Beauty Dress</title>
+    <s:type></s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/Tezza-7488.jpg?v=1699177462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nicely fitted dress with one embroidered shoulder and feather</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8896125206809</id>
+      <title>Small-Large / Navy / Maxi</title>
+      <s:price currency="EGP">2200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8896114327833</id>
+    <published>2023-11-05T11:26:23+02:00</published>
+    <updated>2023-11-05T11:26:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/fire-sign-dress"/>
+    <title>Fire Sign Dress</title>
+    <s:type></s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/Tezza-9144.jpg?v=1699176385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Halter neck backless red dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8896114327833</id>
+      <title>Small-Medium / Red / Maxi</title>
+      <s:price currency="EGP">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8896106692889</id>
+    <published>2023-11-05T11:15:24+02:00</published>
+    <updated>2023-11-05T11:15:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/limitless-charm-dress"/>
+    <title>Limitless Charm Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/PhotoRoom_20230905_230349.jpg?v=1699175726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vibrant green Payette dress with a front slit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8896106692889</id>
+      <title>Small-Large / Green / Maxi</title>
+      <s:price currency="EGP">3500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8896102236441</id>
+    <published>2023-11-05T11:08:37+02:00</published>
+    <updated>2023-11-05T11:08:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/epic-night"/>
+    <title>Epic Night Dress</title>
+    <s:type></s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/IMG_1656.jpg?v=1699175319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ruffled dress with front cut-outs and a front slit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8896102236441</id>
+      <title>Small-Medihm / Black / Maxi</title>
+      <s:price currency="EGP">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8466543575321</id>
+    <published>2023-07-15T11:16:04+03:00</published>
+    <updated>2023-07-15T11:16:04+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/fields-at-night-dress"/>
+    <title>Fields At Night Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/IMG_0588.jpg?v=1689408966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Green metallic backless dress with a side slit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8466543575321</id>
+      <title>Small-Xlarge / Green / Maxi</title>
+      <s:price currency="EGP">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8449640169753</id>
+    <published>2023-07-11T10:29:27+03:00</published>
+    <updated>2023-07-11T10:29:27+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/covergirl-dress"/>
+    <title>CoverGirl Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/7552DDC7-4931-4A28-A3BA-89835D9F1329.jpg?v=1689060569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black side cut-out backless dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8449640169753</id>
+      <title>Small-Large / Black / Maxi</title>
+      <s:price currency="EGP">3500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8447425118489</id>
+    <published>2023-07-10T10:06:07+03:00</published>
+    <updated>2023-07-10T10:06:07+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/ivory-patels-dress"/>
+    <title>Ivory Patels Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/PhotoRoom_20230710_095623.jpg?v=1688972769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            5000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ivory dress with pearl embroidery and a detachable cape</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8447425118489</id>
+      <title>Small / Ivory / Maxi</title>
+      <s:price currency="EGP">5000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8447398084889</id>
+    <published>2023-07-10T09:41:29+03:00</published>
+    <updated>2023-07-10T09:41:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/always-on-the-glow-dress"/>
+    <title>Always On The Glow Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/PhotoRoom_20230710_094723.jpg?v=1688973057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Full sequin dress with a side cutout and a front slit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8447398084889</id>
+      <title>Small-Large / Silver / Maxi</title>
+      <s:price currency="EGP">3500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8447379439897</id>
+    <published>2023-07-10T09:15:06+03:00</published>
+    <updated>2023-07-10T09:15:06+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/black-truffle-dress"/>
+    <title>Black Truffle Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/files/058EBC6A-CCA0-4BBC-9110-EDE6BD26D115.jpg?v=1688969708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One-shoulder cutout dress with a front slit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8447379439897</id>
+      <title>Small-Large / Black / Maxi</title>
+      <s:price currency="EGP">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8159219056921</id>
+    <published>2023-03-14T12:25:13+02:00</published>
+    <updated>2023-03-14T12:25:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/royalty-rules-dress"/>
+    <title>Royalty Rules Dress</title>
+    <s:type>Dressses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/F465BD8F-7B16-4D48-B312-B07C9661C045.jpg?v=1678789515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dressses<br>
+        <strong>Price: </strong>
+            5000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Short sleeve fully embroidered white fitted dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8159219056921</id>
+      <title>Small-Medium / White / Maxi</title>
+      <s:price currency="EGP">5000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8151379738905</id>
+    <published>2023-03-09T12:21:36+02:00</published>
+    <updated>2023-03-09T12:21:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/the-bold-type-dress-1"/>
+    <title>The Bold Type Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/PhotoRoom_20230223_215545.jpg?v=1678357407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black shimmers dress with detachable puffy long sleeves</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8151379738905</id>
+      <title>Small-Large / Black / Maxi</title>
+      <s:price currency="EGP">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8138992648473</id>
+    <published>2023-03-02T14:50:01+02:00</published>
+    <updated>2023-03-02T14:50:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/fairy-dreams-dress"/>
+    <title>Fairy Dreams Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/PhotoRoom_20230225_2227272.jpg?v=1677761404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simple white fitted dress with off-shoulder puffy sleeves</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8138992648473</id>
+      <title>Small-Large / White / Maxi</title>
+      <s:price currency="EGP">3600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8138990518553</id>
+    <published>2023-03-02T14:46:19+02:00</published>
+    <updated>2023-03-02T14:46:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/sun-kissed-dress"/>
+    <title>Sun-kissed Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/03634766-6D71-4490-BACD-58C6029815EF.jpg?v=1677761181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vibrant orange satin dress with a side slit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8138990518553</id>
+      <title>Small-Xlarge / Orange / Maxi</title>
+      <s:price currency="EGP">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8138981507353</id>
+    <published>2023-03-02T14:39:55+02:00</published>
+    <updated>2023-03-02T14:39:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/pink-me-up-dress"/>
+    <title>Pink Me Up Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/IMG_5284.jpg?v=1677760797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink dress with pink feather trim</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8138981507353</id>
+      <title>Small-Large / Pink / Maxi</title>
+      <s:price currency="EGP">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8132501504281</id>
+    <published>2023-02-26T14:46:36+02:00</published>
+    <updated>2023-02-26T14:46:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/rise-glow-dress"/>
+    <title>Rise &amp; Glow Dress</title>
+    <s:type>Dressses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/PhotoRoom_20230224_002927.jpg?v=1677415794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dressses<br>
+        <strong>Price: </strong>
+            3300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Two piece black sequin dress w black feather tail</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8132501504281</id>
+      <title>Small-Xlarge / Black / Maxi</title>
+      <s:price currency="EGP">3300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8132491215129</id>
+    <published>2023-02-26T14:32:08+02:00</published>
+    <updated>2023-02-26T14:32:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/rare-beauty-dress"/>
+    <title>Rare Beauty Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/IMG_5201.png?v=1677415032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            1900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White one-shoulder/puffy-sleeve/feathers dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>Shortdress</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8132491215129</id>
+      <title>Small-Large / White / Maxi</title>
+      <s:price currency="EGP">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8127965167897</id>
+    <published>2023-02-22T12:36:45+02:00</published>
+    <updated>2023-02-22T12:36:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/midnight-kiss-dress"/>
+    <title>Midnight Kiss Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Posh Hire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/IMG_2381.jpg?v=1677062207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posh Hire<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black sequin dress with a front slit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8127965167897</id>
+      <title>Small-Large / Black / Maxi</title>
+      <s:price currency="EGP">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8127621595417</id>
+    <published>2023-02-21T22:19:29+02:00</published>
+    <updated>2023-02-21T22:19:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/gold-goddess-dress"/>
+    <title>Gold Goddess Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Kojak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/18-2.jpg?v=1677010770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kojak<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Glittery fabric gold dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8127621595417</id>
+      <title>Small-Xlarge / Gold / Maxi</title>
+      <s:price currency="EGP">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://poshhire.com/products/8127619957017</id>
+    <published>2023-02-21T22:15:00+02:00</published>
+    <updated>2023-02-21T22:15:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://poshhire.com/products/last-christmas-dress"/>
+    <title>Last Christmas Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Kojak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0707/2815/5417/products/30.jpg?v=1677010502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kojak<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            3000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Two-piece green embroidered short dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Evening</s:tag>
+    <s:tag>Shortdress</s:tag>
+    <s:variant>
+      <id>https://poshhire.com/products/8127619957017</id>
+      <title>Small-Medium / Green / Mini</title>
+      <s:price currency="EGP">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
